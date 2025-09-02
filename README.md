@@ -96,7 +96,8 @@ I am currently pursuing my **Bachelor of Science in Software Engineering** at th
 
 ## 💻 Past work
 
-You can see my past software development projects in the **[Projects](/projects)** section.
+You can see my open-source projects here on my github. Other projects can be viewed on my [![Website](https://img.shields.io/badge/-Website-blue?&logo=internet-explorer&logoColor=white)](https://www.michalvalko.eu/)
+
 
 ## 🎨 Beyond Code
 
