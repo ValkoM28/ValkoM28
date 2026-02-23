@@ -82,7 +82,7 @@ I'm not just building apps and websites; I'm building stories, business stories,
 
 ## 📚 Academia 
 
-I am currently pursuing my **Bachelor of Science in Software Engineering** at the University of Southern Denmark, Alsion 2, DK-6400 Sønderborg, Denmark.
+I am currently pursuing my **Bachelor of Science in Software Engineering** at the University of Southern Denmark.
 
 ## 💻 Past work
 
